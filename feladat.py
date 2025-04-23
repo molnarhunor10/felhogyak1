@@ -1,1 +1,2 @@
 print("gyak")
+#Magyarázat
